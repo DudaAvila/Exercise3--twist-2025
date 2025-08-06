@@ -1,0 +1,103 @@
+header img{
+    width: 125px;
+    height:125px;
+    border-radius: 10px;
+    display: inline-block ;
+}
+header h1{
+    font-size: 50px;
+    color: rgb(21, 35, 162); 
+    display: inline ;
+    margin: 2%; 
+}
+#container{ 
+    background-color: rgb(224, 210, 193) ;
+}
+
+#main{
+    background-color: rgb(241, 193, 218) ;
+    border: rgb(170, 82, 113) solid 2px; 
+    font-size: 16pt;
+    padding: 5%; 
+    margin: 0 auto;
+
+}
+
+section embed {
+    width: 700px;
+    height: 600px;
+    border-radius: 10px;
+    border: rgb(155, 77, 90) solid 3px;
+    background-color: rgb(112, 59, 69) ; 
+    padding: 2%;
+    margin:2%; 
+    display: inline-block;
+
+}
+section figcaption{ 
+    font-size: 12pt;
+}
+section iframe{ 
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+    border: rgb(101, 44, 53) solid 3px; 
+    background-color: rgb(112, 59, 69) ;
+    padding: 2%;
+    margin:2%; 
+    display: inline-block;
+}
+
+section object{ 
+    width: 800px;
+    height: 400px;
+    border-radius: 10px;
+    border: rgb(101, 44, 53) solid 3px; 
+    background-color: rgb(112, 59, 69) ;
+    padding: 2%;
+    margin:2%; 
+    display: inline-block;
+}
+
+#menu{
+    font-size: 15px;
+    color:rgb(203, 216, 245); 
+    border: rgb(144, 148, 227) solid 2px; 
+    background-color: rgb(11, 9, 123);
+    border-radius: 10px;
+    margin:2%; 
+    padding: 2%; 
+}
+
+#rodape{
+    background-color: rgb(93, 66, 83);
+    color:rgb(7, 6, 30); 
+    padding: 2%; 
+    margin-top: 2%;
+}
+
+.caixa{
+    border: rgb(134, 150, 196) ; 
+    background-color: rgb(163, 179, 233);
+    border-radius: 10px;
+    margin: 2%;
+    padding: 2%; 
+    text-align: inline-block ;
+}
+
+.fonte{
+    color:rgb(7, 6, 30); 
+    font-size: 18px;
+    font-style: normal;
+}
+
+a, a:link{
+    color:rgb(171, 187, 231); 
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: rgb(228, 42, 144)  ;
+    color:rgb(83, 9, 56); 
+}
